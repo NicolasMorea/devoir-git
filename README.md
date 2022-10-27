@@ -1,6 +1,6 @@
-Nom : Simon Hadjadj 
+Nom : Simon Hadjadj : shdj9 
 Nom : Nicolas Moreau : NicolasMorea
-ISBLED
+ISBLED pseudo github : Martin-Isbled
 
 # mettez ici le nombre de personnes dans votre groupe
 
